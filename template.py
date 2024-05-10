@@ -13,8 +13,8 @@ for dir in dirs:
         pass
 
 files=[
-"dvc.yml",
-"params.yml",
+"dvc.yaml",
+"params.yaml",
 ".gitignore",
 os.path.join("src", "__init__.py"),
 ]
